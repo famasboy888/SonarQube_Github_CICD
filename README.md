@@ -37,4 +37,6 @@ Add `SONAR_HOST_URL`
   <img width="60%" height="60%" src="https://github.com/famasboy888/SonarQube_Github_CICD/assets/23441168/2fb30256-6c1a-4125-b47d-4ed411a75c57">
 </p>
 
+### 3) Add `.github\workflows\sonar_scan.yaml` file to Github repository root directory
 
+Then follow this [sonar_scan.yaml](https://github.com/famasboy888/SonarQube_Github_CICD/blob/main/.github/workflows/sonar_scan.yaml)
