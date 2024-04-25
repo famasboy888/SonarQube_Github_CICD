@@ -1,9 +1,9 @@
 name: CI/CD workflow for Maven Build and Sonar Code scan
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: [main]
+    types: [opened, reopened]
 
 jobs:
 
