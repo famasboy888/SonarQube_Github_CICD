@@ -34,7 +34,7 @@ Add `SONAR_TOKEN`
 Add `SONAR_HOST_URL`
 
 <p align="left">
-  <img width="40%" height="40%" src="https://github.com/famasboy888/SonarQube_Github_CICD/assets/23441168/2fb30256-6c1a-4125-b47d-4ed411a75c57">
+  <img width="60%" height="60%" src="https://github.com/famasboy888/SonarQube_Github_CICD/assets/23441168/2fb30256-6c1a-4125-b47d-4ed411a75c57">
 </p>
 
 
