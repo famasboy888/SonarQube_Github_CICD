@@ -15,9 +15,19 @@ I will use `my-Java-web-app`.
 
 #### 1.2) Use the global setting
 
-#### 1.4) Chose `GitHub Actions`.
+#### 1.3) Chose `GitHub Actions`.
 
-#### 1.3) Generate a `New Token`. Save and copy it for later.
+#### 1.4) Generate a `New Token`. Save and copy it for later.
 
-### 2) Save Token to Github Actions Secrets
+#### 1.5) Copy `Host URL`. Save it for later.
+
+---
+
+### 2) Save Token to Github Actions Secrets.
+
+In Github repository, go to:
+
+`Settings` > `Secrets and variables` > `Actions` > `Secrets tab` > `New Repository Secret`
+
+
 
