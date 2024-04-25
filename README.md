@@ -1,1 +1,1 @@
-# SonarQube_Github_CICD
+# SonarQube with Github - CICD
