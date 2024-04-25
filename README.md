@@ -51,5 +51,10 @@ Create a pull request and see Github Action run your jobs:
   <img width="60%" height="60%" src="https://github.com/famasboy888/SonarQube_Github_CICD/assets/23441168/cdbf4820-03fe-4d4b-933f-dd1e68fafa0f">
 </p>
 
-Check SonarQube server
+Check SonarQube server. We will see the reports.
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_Github_CICD/assets/23441168/bee0e417-6994-4553-a1d1-5fe0f3031dd9">
+</p>
+
 
